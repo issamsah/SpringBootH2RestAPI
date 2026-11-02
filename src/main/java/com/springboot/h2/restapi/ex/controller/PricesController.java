@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.springboot.h2.restapi.ex.service.PricesService;
 
 /**
- * @author isahmoudi
+ * @author isahmoudi test
  *
  */
 @RestController
